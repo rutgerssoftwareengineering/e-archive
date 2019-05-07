@@ -1,6 +1,6 @@
-***MINERVA***
+**MINERVA**
 
-Rutgers Software Engineering Project
+***Rutgers Software Engineering Project***
 
 Group Members: Jacob Battipaglia, Jonathan Hong, Brian Ma, Skyler Lee, Justin May, Joshua Olazo, Salman Omer, Phuru Shekar
 
