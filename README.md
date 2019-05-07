@@ -1,4 +1,4 @@
-MINERVA
+**MINERVA
 
 Rutgers Software Engineering Project
 
