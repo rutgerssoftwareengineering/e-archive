@@ -1,3 +1,7 @@
+// written by: Salman Omer
+// tested by: Salman Omer
+// debugged by: Salman Omer
+
 import React, {Component} from 'react';
 import Feedback from '../hub_components/Feedback';
 import AdministerQuizComponent from '../hub_components/AdministerQuizComponent';

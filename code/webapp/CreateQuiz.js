@@ -1,3 +1,8 @@
+// written by: Salman Omer
+// tested by: Salman Omer
+// debugged by: Salman Omer
+
+
 import React, {Component} from 'react';
 import MultipleChoiceAnswers from './MultipleChoiceAnswers';
 import TimeField from 'react-simple-timefield';

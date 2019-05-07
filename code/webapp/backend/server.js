@@ -1,3 +1,7 @@
+// written by: Salman Omer, Brian Ma, Jon Hong, Josh Olazo
+// tested by: Salman Omer, Brian Ma, Jon Hong, Josh Olazo
+// debugged by: Salman Omer, Brian Ma, Jon Hong, Josh Olazo
+
 const mongoose = require("mongoose");
 const express = require("express");
 const bodyParser = require("body-parser");

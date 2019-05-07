@@ -1,3 +1,7 @@
+// written by: Salman Omer
+// tested by: Salman Omer
+// debugged by: Salman Omer
+
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';

@@ -1,3 +1,7 @@
+// written by: Salman Omer
+// tested by: Salman Omer
+// debugged by: Salman Omer
+
 import React, {Component} from 'react';
 
 // Component which stores and displays all the answers for a particular question

@@ -1,3 +1,7 @@
+// written by: Salman Omer
+// tested by: Salman Omer
+// debugged by: Salman Omer
+
 import openSocket from 'socket.io-client';
 const  socket = openSocket('http://localhost:8000');
 
