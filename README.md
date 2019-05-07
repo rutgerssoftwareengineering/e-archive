@@ -1,4 +1,4 @@
-**MINERVA
+***MINERVA***
 
 Rutgers Software Engineering Project
 
@@ -8,8 +8,8 @@ Minerva is a web and mobile application meant to improve student educational ret
 
 This e-archive contains our relevant files for our project, including code, documentation, presentation slides, etc. 
 
-/code/ -- contains the source code for both our web and mobile application, including instructions for compiling and running
+>/code/ -- contains the source code for both our web and mobile application, including instructions for compiling and running
 
-/documentation/ -- contains user and technical documentation for our project, as well as our Report 3 and past report submissions
+>/documentation/ -- contains user and technical documentation for our project, as well as our Report 3 and past report submissions
 
-/testing/ -- includes a repository with instructions for running tests we created for our program.
+>/testing/ -- includes a repository with instructions for running tests we created for our program.
