@@ -1,3 +1,6 @@
+  // written by: Joshua Olazo
+  // tested by: Joshua Olazo
+  // debugged by: Joshua Olazo
 import { createStore, applyMiddleware, compose} from 'redux';
 import thunk from 'redux-thunk';
 import rootReducer from './reducers';

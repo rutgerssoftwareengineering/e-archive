@@ -1,3 +1,6 @@
+  // written by: Joshua Olazo
+  // tested by: Joshua Olazo
+  // debugged by: Joshua Olazo
 import React, {Component} from 'react';
 import { connect } from 'react-redux' 
 import { getAnnouncements, addAnnouncement} from '../actions/announcementActions';

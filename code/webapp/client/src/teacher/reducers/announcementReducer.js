@@ -1,3 +1,6 @@
+  // written by: Joshua Olazo
+  // tested by: Joshua Olazo
+  // debugged by: Joshua Olazo
 import { GET_ANNOUNCEMENTS, ADD_ANNOUNCEMENT, DELETE_ANNOUNCEMENT, ANNOUNCEMENTS_LOADING} from '../actions/types';
 //import { allResolved } from 'q';
 const initalState= {

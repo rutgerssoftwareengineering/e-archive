@@ -1,3 +1,6 @@
+  // written by: Joshua Olazo
+  // tested by: Joshua Olazo
+  // debugged by: Joshua Olazo
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 

@@ -1,3 +1,6 @@
+  // written by: Joshua Olazo
+  // tested by: Joshua Olazo
+  // debugged by: Joshua Olazo and Brian Ma
 import React, {Component} from 'react';
 import {CSSTransition, TransitionGroup } from 'react-transition-group';
 import { NavLink } from 'react-router-dom';

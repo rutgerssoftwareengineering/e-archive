@@ -1,3 +1,6 @@
+  // written by: Joshua Olazo
+  // tested by: Joshua Olazo
+  // debugged by: Joshua Olazo
 import reducer from '../reducers/announcementReducer';
 import * as actions from '../actions/types';
 import * as types from '../actions/announcementActions';

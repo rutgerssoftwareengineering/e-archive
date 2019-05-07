@@ -1,3 +1,6 @@
+  // written by: Joshua Olazo
+  // tested by: Joshua Olazo
+  // debugged by: Joshua Olazo
 import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';

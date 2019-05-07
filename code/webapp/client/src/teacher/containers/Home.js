@@ -1,3 +1,6 @@
+  // written by: Brian Ma and Joshua Olazo
+  // tested by: Brian Ma and Joshua Olazo
+  // debugged by: Joshua Olazo
 import React, {Component} from 'react';
 import axios from 'axios'
 import Cookies from 'universal-cookie';

@@ -1,3 +1,6 @@
+  // written by: Jon Hong and Joshua Olazo
+  // tested by: Jon Hong and Joshua Olazo
+  // debugged by: Jon Hong and Joshua Olazo
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const bcrypt = require('bcrypt');

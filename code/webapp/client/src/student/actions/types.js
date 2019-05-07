@@ -1,3 +1,6 @@
+  // written by: Joshua Olazo
+  // tested by: Joshua Olazo
+  // debugged by: Joshua Olazo
 export const GET_ANNOUNCEMENTS =  'GET_ANNOUNCEMENTS';
 export const ADD_ANNOUNCEMENT =  'ADD_ANNOUNCEMENT';
 export const DELETE_ANNOUNCEMENT =  'DELETE_ANNOUNCEMENT';

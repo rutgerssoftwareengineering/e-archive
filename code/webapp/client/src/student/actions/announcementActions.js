@@ -1,3 +1,6 @@
+  // written by: Joshua Olazo
+  // tested by: Joshua Olazo
+  // debugged by: Joshua Olazo and Brian Ma
 import axios from 'axios';
 import { GET_ANNOUNCEMENTS, ADD_ANNOUNCEMENT, DELETE_ANNOUNCEMENT, ANNOUNCEMENTS_LOADING,  GET_FEEDBACK, FEEDBACK_LOADING} from './types';
 import Cookies from 'universal-cookie';
