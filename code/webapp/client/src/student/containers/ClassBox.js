@@ -1,3 +1,6 @@
+// written by: Brian Ma
+// tested by: Brian Ma
+// debugged by: Brian Ma
 //internal forum component, renders all appropriate thread previews
 import React, {Component} from 'react';
 import Cookies from 'universal-cookie';

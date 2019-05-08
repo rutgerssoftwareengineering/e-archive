@@ -1,3 +1,6 @@
+// written by: Brian Ma
+// tested by: Brian Ma
+// debugged by: Brian Ma
 import React, {Component} from 'react';
 import axios from 'axios'
 import Cookies from 'universal-cookie';

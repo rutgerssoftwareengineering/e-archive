@@ -1,3 +1,6 @@
+// written by: Brian Ma
+// tested by: Brian Ma
+// debugged by: Brian Ma
 import React, {useState} from 'react';
 import { useSpring, animated } from 'react-spring';
 import { NavLink } from 'react-router-dom';
